@@ -1,2 +1,2 @@
 # Coloreador-de-Fondos-
-[![fondo.png](/home/manuel/Desktop/book/fondo.png)](https://cambiafondos.netlify.app/)
+[![fondo.png](https://github.com/Angstromico/Coloreador-de-Fondos-/blob/master/fondo.png](https://cambiafondos.netlify.app/)
